@@ -1,0 +1,8 @@
+{
+	"home":
+	{
+		"url": "/",
+		"controller": "IndexController",
+		"templateUri": "/app/public/temps/modules/home.volt"
+	}
+}
